@@ -57,7 +57,7 @@ Join the #NLP channel in our Slack channel to find one.
 ### Project
 - 3 Assignments Visualize and Implement Word2Vec, Create dependency parser all in PyTorch (they are assigments from the stanford course)
 
-## Week 4 - Deep Sequence Modeling 
+## Week 4-5 - Deep Sequence Modeling 
 ### Description:
 - Sequence to Sequence Models (translation, summarization, question answering)
 - Attention based models
@@ -70,7 +70,7 @@ Join the #NLP channel in our Slack channel to find one.
 ### Project
 - 3 Assignments, create a translator and a summarizer. All seq2seq models. In pytorch.
 
-## Week 5 - Dialogue Systems
+## Week 6 - Dialogue Systems
 ### Description
 - Speech Recognition
 - Dialog Managers, NLU
@@ -81,7 +81,7 @@ Join the #NLP channel in our Slack channel to find one.
 ### Project
 - Create a dialogue system using Pytorch https://github.com/ywk991112/pytorch-chatbot and a task oriented dialogue system using DialogFlow to order food
 
-## Week 6 - Transfer Learning
+## Week 7 - Transfer Learning
 ### Video Lectures
 - My videos on BERT and GPT-2, how to build biomedical startup. Search "Siraj Raval BERT", "Siraj raval GPT-2" and "How to Build a biomedical startup" to find them on youtube. 
 - Transfer learning with BERT/GPT-2/ELMO
@@ -92,7 +92,7 @@ Join the #NLP channel in our Slack channel to find one.
 ### Project 
 - Play with this https://github.com/huggingface/pytorch-pretrained-BERT#examples pick 2 models, use it for one of 9 downstream tasks, compare their results.
 
-### Week 7 - Future NLP
+## Week 8 - Future NLP
 ### Description
 - Visual Semantics
 - Deep Reinforcement Learning
