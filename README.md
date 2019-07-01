@@ -40,7 +40,7 @@ Join the #NLP_curriculum channel in our Slack channel to find one http://wizards
 - Ch 1-2 of Speech and Language Processing 3rd ed, slides 
 ### Project: 
 - Look at 1-1 to 3-4 to learn NLTK https://github.com/hb20007/hands-on-nltk-tutorial 
-- Then try NLTK to perform stemming, lemmatiziation, tokenization, stopword removal
+- Then use NLTK to perform stemming, lemmatiziation, tokenization, stopword removal on a dataset of your choice 
 
 ## Week 2 - Language Models & Lexicons (pre-deep learning)
 ### Description:
