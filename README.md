@@ -112,6 +112,6 @@ Join the #NLP_curriculum channel in our Slack channel to find one http://wizards
 - https://cs.stanford.edu/people/karpathy/cvpr2015.pdf 
 - Hilarious https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7 
 ### Project:
-- Policy gradient text summarization https://github.com/yaserkl/RLSeq2Seq#policy-gradient-w-self-critic-learning-and-temporal-attention-and-intra-decoder-attention reimplment in pytorch
+- Policy gradient text summarization https://github.com/yaserkl/RLSeq2Seq#policy-gradient-w-self-critic-learning-and-temporal-attention-and-intra-decoder-attention reimplement in pytorch
 
 
