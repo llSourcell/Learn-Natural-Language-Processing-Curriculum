@@ -89,7 +89,10 @@ Join the #NLP_curriculum channel in our Slack channel to find one http://wizards
 
 ## Week 7 - Transfer Learning
 ### Video Lectures
-- My videos on BERT and GPT-2, how to build biomedical startup. Search "Siraj Raval BERT", "Siraj raval GPT-2" and "How to Build a biomedical startup" to find them on youtube. 
+- My videos on BERT and GPT-2, how to build biomedical startup:
+- https://www.youtube.com/watch?v=bDxFvr1gpSU
+- https://www.youtube.com/watch?v=J9kbZ5I8gdM
+- https://www.youtube.com/watch?v=0n95f-eqZdw
 - Transfer learning with BERT/GPT-2/ELMO
 ### Reading Assignments
 - http://ruder.io/nlp-imagenet/
@@ -105,7 +108,7 @@ Join the #NLP_curriculum channel in our Slack channel to find one http://wizards
 ### Video Lectures
 - CMU Video https://www.youtube.com/watch?v=isxzsAelQX0 
 - Module 5-6 of this https://www.edx.org/course/natural-language-processing-nlp-3 
-### Readings assignments
+### Reading assignments
 - https://cs.stanford.edu/people/karpathy/cvpr2015.pdf 
 - Hilarious https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7 
 ### Project:
