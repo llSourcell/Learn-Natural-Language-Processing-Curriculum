@@ -7,7 +7,7 @@ Remember to believe in your ability to learn. You can learn NLP , you will learn
 eventually you will master it.
 
 ## Find a study buddy
-Join the #NLP channel in our Slack channel to find one.
+Join the #NLP_curriculum channel in our Slack channel to find one http://wizards.herokuapp.com
 
 ## Components each week
 - Video Lectures
@@ -22,6 +22,12 @@ Join the #NLP channel in our Slack channel to find one.
 - Python, PyTorch, NLTK 
 
 ## Prerequisites
+
+- Learn Python https://www.edx.org/course/introduction-python-data-science-2
+- Statistics http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf 
+- Probability https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf 
+- Calculus http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf 
+- Linear Algebra https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf 
 
 ## Week 1 - Language Terminology + preprocessing techniques
 ### Description:
